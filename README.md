@@ -136,4 +136,4 @@ python C:/Путь/К/Файлу/music_generator_gui.py
 5. Откройте Pull Request
 
 ## 📄 Лицензия
-Этот проект распространяется под лицензией [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.ru). См. файл LICENSE для подробностей.
+Этот проект распространяется под лицензией [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.ru). См. файл [LICENSE](https://github.com/Cicada535/GUI-for-music-generation-neural-models/blob/master/LICENSE) для подробностей.
