@@ -30,8 +30,8 @@ AI Music Generator GUI - это мощный инструмент с графи�
 
 (для клонирования):
 ```
-git clone https://github.com/Cicada535/GUI-for-music-generation-neural-models.git
-cd GUI-for-music-generation-neural-models
+git clone https://github.com/Cicada535/AI-Music-Generator-GUI.git
+cd AI-Music-Generator-GUI
 ```
 2. **Установите зависимости:**
 ```
