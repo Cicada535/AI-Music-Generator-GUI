@@ -34,26 +34,12 @@ git clone https://github.com/Cicada535/GUI-for-music-generation-neural-models.gi
 cd GUI-for-music-generation-neural-models
 ```
 2. **Установите зависимости:**
-
-(если у вас несколько версий Python):
-```
-cd C:/Путь/К/Папке/Python & python.exe -m pip install -U -r C:/Путь/К/Файлу/requirements.txt
-```
-
-(если у вас 1 версия Python):
 ```
 pip install -U -r C:/Путь/К/Файлу/requirements.txt
 ```
 3. **Запустите приложение:**
-
-(если у вас несколько версий Python):
 ```
-cd C:/Путь/К/Папке/Python & python.exe C:/Путь/К/Файлу/music_generator_gui.py
-```
-
-(если у вас 1 версия Python):
-```
-python C:/Путь/К/Файлу/music_generator_gui.py
+python C:/Путь/К/Файлу/main.py
 ```
 ## 🤖 Модели
 Полностью функционирующие предобученные модели трансформера TensorFlow для этого GUI вы можете найти на [этом](https://www.kaggle.com/models/cicada535/single-instrument-model-v1 "Kaggle: single-instrument-model-v1") сайте
